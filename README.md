@@ -1,3 +1,12 @@
+## Dataset
+
+Our dataset in 'https://github.com/WeilaiFuture/CEDG-QA/tree/main/CEDGQA/src/main/resources/datasets'
+
+    -aiwen.jsonl
+    -sougou.jsonl
+    -zhihu.jsonl
+
+
 # EDGQA
 
 ## What is EDGQA?
